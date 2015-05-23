@@ -24,7 +24,7 @@ bool eTriangulo(float ladoA, float ladoB, float ladoC){
     if ( ( ladoA < (ladoB + ladoC) ) && ( ladoB < ( ladoA + ladoC)  ) && ( ladoC < ( ladoA + ladoB ) ) ){
         return true;
     }else{
-        return false;
+        return false (0);
     }
 }
 */
