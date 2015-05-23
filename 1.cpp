@@ -39,9 +39,14 @@ int main(){
     float areaTriangulo;
     
     int ladoQuadrado;
+<<<<<<< HEAD
     float areaQuadrado;Hullick
     float diagonalQuadrado;gUI
 	B1
+=======
+    float areaQuadrado;
+    float diagonalQuadrado;
+>>>>>>> parent of 436c233... Inserido hULLICK
     
     
     // ---------------------------------------------Entrada de dados-----------------------------------------------
