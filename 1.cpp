@@ -41,6 +41,7 @@ int main(){
     int ladoQuadrado;
     float areaQuadrado;Hullick
     float diagonalQuadrado;gUI
+	B1
     
     
     // ---------------------------------------------Entrada de dados-----------------------------------------------
