@@ -43,7 +43,7 @@ int main(){
 <<<<<<< HEAD
 <<<<<<< HEAD
     float areaQuadrado; Hullick
-    float diagonalQuadrado; gUIlherme
+    float diagonalQuadrado; gUIlherme sinistro
 
 
     float areaQuadrado;
