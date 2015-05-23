@@ -40,7 +40,7 @@ int main(){
     
     int ladoQuadrado;
     float areaQuadrado;Hullick
-    float diagonalQuadrado;
+    float diagonalQuadrado;gUI
     
     
     // ---------------------------------------------Entrada de dados-----------------------------------------------
