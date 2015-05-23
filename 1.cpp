@@ -40,10 +40,13 @@ int main(){
     
     int ladoQuadrado;
 <<<<<<< HEAD
+<<<<<<< HEAD
     float areaQuadrado;Hullick
     float diagonalQuadrado;gUI
 	B1
 =======
+=======
+>>>>>>> parent of 436c233... Inserido hULLICK
     float areaQuadrado;
     float diagonalQuadrado;
 >>>>>>> parent of 436c233... Inserido hULLICK
