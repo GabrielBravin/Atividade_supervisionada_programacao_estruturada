@@ -42,9 +42,9 @@ int main(){
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-    float areaQuadrado;Hullick
-    float diagonalQuadrado;gUI
-	B1
+    float areaQuadrado; Hullick
+    float diagonalQuadrado; gUIlherme
+
 
     float areaQuadrado;
     float diagonalQuadrado;
