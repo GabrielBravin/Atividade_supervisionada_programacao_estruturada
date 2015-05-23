@@ -30,17 +30,7 @@ bool eTriangulo(float ladoA, float ladoB, float ladoC){
 */
 
 int main(){
-    //Setando o idioma para português
-    setlocale(LC_ALL, "Portuguese");
     
-    int cateto1;
-    int cateto2;
-    float hipotenusa;
-    float areaTriangulo;
-    
-    int ladoQuadrado;
-    float areaQuadrado;
-    float diagonalQuadrado;
     
     
     // ---------------------------------------------Entrada de dados-----------------------------------------------
