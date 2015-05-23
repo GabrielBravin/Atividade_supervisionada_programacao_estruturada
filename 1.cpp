@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <locale.h>
 
+Integrantes: Hullick
+
 float potencia (int base, int expoente){
     int resultado = 1;
     
