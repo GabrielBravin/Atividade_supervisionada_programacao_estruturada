@@ -39,7 +39,7 @@ int main(){
     float areaTriangulo;
     
     int ladoQuadrado;
-    float areaQuadrado;
+    float areaQuadrado;Hullick
     float diagonalQuadrado;
     
     
